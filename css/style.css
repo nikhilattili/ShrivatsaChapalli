@@ -415,7 +415,11 @@ a {
   color: #26253a;
 }
 
+#newsletter select {
+  height: 30px;
+  width: 200px;
 
+}
 
 /*---------------------------------------
     Blog section              
