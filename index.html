@@ -177,8 +177,8 @@
 		<div class="row">
 
 			<div class="wow fadeInUp col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10" data-wow-delay="0.9s">
-				<h2>Signup Newsletter</h2>
-				<p>Get discounts for your personal fitness and gym services now.</p>
+				<h2>Signup For a Plan</h2>
+				<p>Select a plan and submit the form, I will get back to you quickest possible.</p>
 				<div class="newsletter_detail">
 					<form target="index.html" action="https://formspree.io/f/xwkwlbay" method="post" id="newsletter-signup">
 						<div class="col-md-6 col-sm-6">
@@ -191,7 +191,14 @@
 							<input name="Number" type="tel" class="form-control" id="number" placeholder="Phone Number">
 						</div>
 						<div class="col-md-offset-3 col-md-6 col-sm-offset-2 col-sm-8">
-							<input name="submit" type="submit" class="form-control" id="submit" value="SEND MESSAGE">
+							<h4>Select a plan:</h4>
+							<select style="color:black" name="package" id="package">
+							<option value="3 Months plan">3 Months Plan</option>
+							<option value="6 Months plan">6 Months Plan</option>
+							</select>
+						</div>
+						<div class="col-md-offset-3 col-md-6 col-sm-offset-2 col-sm-8">
+							<input name="submit" type="submit" class="form-control" id="submit" value="Submit">
 						</div>
 				  	</form>
 				</div>
