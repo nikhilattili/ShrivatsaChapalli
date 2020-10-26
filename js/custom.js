@@ -78,8 +78,8 @@ $(document).ready(function() {
   $(function(){
     jQuery(document).ready(function() {
     $('#home').backstretch([
-       "images/Onboard2.jpg", 
-       "images/Onboard1.jpeg",
+       "images/Onboard2.jpeg", 
+       "images/Onboad1.jpeg",
         ],  {duration: 2000, fade: 750});
     });
   })
