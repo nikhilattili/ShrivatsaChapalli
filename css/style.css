@@ -370,7 +370,7 @@ a {
    Newsletter section              
 -----------------------------------------*/
 #newsletter {
-    background: url('../images/new-bg2.jpeg') 50% 0 repeat-y fixed;
+    background: url('../images/signupbg.jpeg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
@@ -436,7 +436,7 @@ a {
 }
 
 #blog .blog-thumb:hover {
-  background: url('../images/blog1.jpg');
+  background: url('../images/blog1.jpeg');
    -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
@@ -468,7 +468,7 @@ a {
 }
 
 #blog .blog-thumb2:hover {
-  background: url('../images/blog2.jpg');
+  background: url('../images/blog2.jpeg');
    -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
@@ -500,7 +500,7 @@ a {
 }
 
 #blog .blog-thumb3:hover {
-  background: url('../images/blog3.JPG');
+  background: url('../images/blog3.jpeg');
    -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
@@ -702,7 +702,7 @@ a {
     Price section              
 -----------------------------------------*/
 #price {
-  background: url('../images/new-bg.jpg') 50% 0 repeat-y fixed;
+  background: url('../images/pricebg.jpeg') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
