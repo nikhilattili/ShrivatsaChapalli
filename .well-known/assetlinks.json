@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "gov.vdh.exposurenotification",
-    "sha256_cert_fingerprints":
-    ["14:D9:91:8F:F9:1A:86:89:18:35:A2:09:C2:03:6A:2F:C8:DA:BD:59:F0:BC:54:91:9D:59:C7:B8:78:45:89:A7"]
-  }
-}]
